@@ -9,3 +9,5 @@ Web: http://www.VTS-Tech.org
 E-mail: veritas@vts-tech.org        
 XMPP: veritas@creep.im              
 BTC 1VTSgzD24bjkSGdD7kvauxkxHZ4yiwhdU
+
+Uses PassLib https://pypi.python.org/packages/source/p/passlib/passlib-1.6.2.tar.gz
