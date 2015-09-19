@@ -1,6 +1,8 @@
 # VTSTech-32hex
 VTSTech-32hex v0.36 Python Version
 
+<img src="http://i.gyazo.com/289fb2d3b7cc096dffe304a99d1026c1.png">
+
 Facebook: http://www.facebook.com/VTSTech      
 Twitter: @VTSTech_                  
 Web: http://www.VTS-Tech.org               
