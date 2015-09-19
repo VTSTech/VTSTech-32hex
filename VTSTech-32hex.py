@@ -1,5 +1,7 @@
 import sys, os, hashlib, binascii, time
 
+#Uses PassLib https://pypi.python.org/packages/source/p/passlib/passlib-1.6.2.tar.gz
+
 from passlib.apps import custom_app_context as pwd_context
 from passlib.context import CryptContext
 
